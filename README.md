@@ -1,6 +1,4 @@
-# product-enhance
-
-Welcome to the enhancement request repository for {product name}! 
+Welcome to the enhancement request repository for DLP/Emory Digital Collections! 
 
 This repository is dedicated to receiving and reviewing enhancement request submissions. 
 
