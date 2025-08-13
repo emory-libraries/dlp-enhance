@@ -1,4 +1,4 @@
-# Welcome to the enhancement request repository for DLP/Emory Digital Collections! 
+# Welcome to the enhancement request repository for Emory Digital Collections and OpenEmory! 
 
 This repository is dedicated to receiving and reviewing enhancement request submissions. 
 
